@@ -1,4 +1,4 @@
-package chapterOne;
+package chapterTwo;
 
 public class DisplayingShapes {
    /* (Displaying Shapes with Asterisks) Write an application that displays a box, an oval, an arrow and a diamond

@@ -1,4 +1,4 @@
-package chapterOne;
+package chapterTwo;
 
 public class Multiples {
 
