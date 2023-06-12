@@ -1,0 +1,14 @@
+
+a) A(n) OPEN CURLY BRACE and CLOSING CURLY BRACE a(n) begin and end the body of every method.
+
+b) You can use the IF statement to make decisions.
+
+c) FORWARD SLASH AND ASTERISK begins an end-of-line comment.
+
+d) BLACK LINES,SPACE CHARACTERS and TAB CHARACTERS are called white space.
+
+e) KEYWORDS are reserved for use by Java.
+
+f) Java applications begin execution at method MAIN.
+
+g) Methods (SYSTEM.OUT.PRINT)  ,(SYSTEM.OUT) and display information in a command window
